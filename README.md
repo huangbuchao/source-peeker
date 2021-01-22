@@ -1,2 +1,3 @@
-# cocos2d-peeker
-cocos2d source peek, profile diagrams.
+# source-peeker
+
+source peek, profile diagrams.
